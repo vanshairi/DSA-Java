@@ -19,4 +19,4 @@ O(log₁₀ n)
 O(1)
 
 ## Solution
-See `Solution.java`.
+See `solution.java`.
