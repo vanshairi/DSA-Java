@@ -17,10 +17,10 @@ DSA-Java/
 
 | Difficulty | Solved |
 |------------|-------:|
-| Easy | 8 |
+| Easy | 11 |
 | Medium | 0 |
 | Hard | 0 |
-| Total | 8 |
+| Total | 11 |
 
 ## Language
 
