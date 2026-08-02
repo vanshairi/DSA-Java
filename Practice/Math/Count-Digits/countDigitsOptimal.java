@@ -1,4 +1,4 @@
-public class optimal {
+public class countDigitsOptimal {
 
   public static void main(String[] args) {
 
